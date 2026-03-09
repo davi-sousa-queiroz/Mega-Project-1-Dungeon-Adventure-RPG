@@ -1,4 +1,4 @@
-# Dungeon Adventure 🗡️ (March 8th-9th 2026)
+# (Mega Project) Dungeon Adventure 🗡️ (March 8th-9th 2026)
 
 Dungeon Adventure is a text-based RPG built in Python.  
 Explore a dungeon, fight enemies, collect treasure, manage your inventory, and survive as long as possible.
