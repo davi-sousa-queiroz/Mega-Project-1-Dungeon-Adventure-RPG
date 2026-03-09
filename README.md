@@ -1,4 +1,4 @@
-# Dungeon Adventure 🗡️
+# Dungeon Adventure 🗡️ (March 8th-9th 2026)
 
 Dungeon Adventure is a text-based RPG built in Python.  
 Explore a dungeon, fight enemies, collect treasure, manage your inventory, and survive as long as possible.
@@ -18,6 +18,8 @@ Explore a dungeon, fight enemies, collect treasure, manage your inventory, and s
 Run the game file:
 
 python dungeon_adventure_v2.py
+
+Don't run out of health or gold, you will die!
 
 Use the menu to explore the dungeon, fight enemies, collect loot, and manage your items.
 
